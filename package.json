@@ -2,6 +2,7 @@
   "name": "my-hotel-holiday-challange-nextjs",
   "version": "0.1.0",
   "private": true,
+  "author": "Halit Akbulut",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,9 +10,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "next": "12.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.54.3"
   },
   "devDependencies": {
     "eslint": "8.21.0",
